@@ -1,0 +1,12 @@
+
+	Moran I test under randomisation
+
+data:  eclipse_total_2024$duration  
+weights: spatial_weights    
+
+Moran I statistic standard deviate = 86.549, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+     0.9999341588     -0.0003003905      0.0001335619 
+

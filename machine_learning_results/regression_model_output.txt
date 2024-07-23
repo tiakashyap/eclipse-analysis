@@ -1,0 +1,20 @@
+
+Call:
+lm(formula = duration ~ lon + lat, data = eclipse_annular_2023)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.82273 -0.21230  0.01206  0.17575  1.01507 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 296.705326   0.341640   868.5   <2e-16 ***
+lon           0.763333   0.006616   115.4   <2e-16 ***
+lat          -1.120044   0.011026  -101.6   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3122 on 808 degrees of freedom
+Multiple R-squared:  0.9993,	Adjusted R-squared:  0.9993 
+F-statistic: 5.79e+05 on 2 and 808 DF,  p-value: < 2.2e-16
+
