@@ -22,6 +22,7 @@ This project analyzes and visualizes solar eclipses occurring in 2023 and 2024 a
 
 ## Data Sources
 
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-04-09/readme.md)
 - [Eclipse Cities 2024](https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005073/cities-eclipse-2024.json)
 - [Eclipse Cities 2023](https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005073/cities-eclipse-2023.json)
 
